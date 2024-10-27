@@ -45,31 +45,31 @@ Welcome to **CampGrounds** – a full-stack platform designed to help users disc
 ## 📸 Screenshots
 
 ### 1️⃣ Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./images/home.png)
 
 ### 2️⃣ Campground Listings
-![Campground Listings](./screenshots/find.png)
+![Campground Listings](./images/find.png)
 
 ### 3️⃣ Campground Details
-![Campground Details](./screenshots/select.png)
+![Campground Details](./images/select.png)
 
 ### 4️⃣ Booking
-![Booking Confirmation](./screenshots/book.png)
+![Booking Confirmation](./images/book.png)
 
 ### 5️⃣ Email
-![Reviews](./screenshots/email.png)
+![Email Confirmation](./images/email.png)
 
 ### 6️⃣ Reviews & Ratings
-![Reviews](./screenshots/review.png)
+![Reviews](./images/review.png)
 
 ### 7️⃣ About
-![Reviews](./screenshots/about.png)
+![About](./images/about.png)
 
 ### 8️⃣ Services
-![Reviews](./screenshots/services.png)
+![Services](./images/services.png)
 
 ### 9️⃣ Contact Us
-![Reviews](./screenshots/contact.png)
+![Contact](./images/contact.png)
 
 ---
 
