@@ -73,12 +73,6 @@ Welcome to **CampGrounds** – a full-stack platform designed to help users disc
 
 ---
 
-## 📜 **Credits**  
-- **Developers**: [@Shubham_Bendre](https://github.com/Shubham-Bendre), [@Malhar_Singh](https://github.com/Malhar2400), [@Yash_Chougule](https://github.com/YxASH), [@Suyog_Sable](https://github.com/Suyog_Sable)  
-- **Special Thanks**: To all the mentors and community for their support! 🎉
-  
----
-
 ## 🕹️ **Installation**  
 1. Clone the repository:  
    ```bash
