@@ -168,7 +168,7 @@ const handleBookingSubmit = (e) => {
   e.preventDefault();
 
   // Generate QR Code URL based on the user's email and booking info
-  const qrCodeUrl = `https://quickchart.io/qr?text=Booking%20for%20${campground.name}%20at%20${bookingDetails.startDate}%20for%20${bookingDetails.numPeople}%20people&size=200`;
+  const qrCodeUrl = ``;
 
   // Send confirmation email
   emailjs.send('', '', {
